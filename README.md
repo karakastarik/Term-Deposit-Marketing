@@ -41,13 +41,23 @@ y - has the client subscribed to a term deposit? (binary)
 Predict if the customer will subscribe (yes/no) to a term deposit (variable y)
 
 ## Methods:
+
 Logistic Regression -> The accuracy of the model: 0.934125
+
 Decision Tree Classifier -> The accuracy of the model: 0.919375
+
 K-Nearest Neighbors -> The accuracy of the model: 0.9295
+
 Support Vector Classification -> The accuracy of the model: 0.929125
+
 Random Forest Classifier -> The accuracy of the model: 0.937875
+
 AdaBoost Classifier -> The accuracy of the model: 0.933375
+
 LightGBM Classifier -> The accuracy of the model: 0.93925
+
 ## Model Tuning Results:
+
 LightGBM Classifier -> The accuracy of the model: 0.9445
+
 Random Forest Classifier -> The accuracy of the model: 0.9385
